@@ -1,0 +1,125 @@
+,Order,inhibitor,Drug,OCTAD_Drug,transcell_name,Df,Sum_Sq,Mean_Sq,Fvalue,Pr(>F),SigDig,ref1_vs_resp,ref2_vs_resp,ref3_vs_resp,sRGES,Drug Notes
+0,1,GW-2580,GW.2580,,,3,18564,6188,4.671,0.00447,**,0.423,0.039,0.021,,"GW2580 completely inhibits human cFMS kinase in vitro at 0.06 μM. GW2580 inhibits the growth of CSF-1 stimulated M-NFS-60 myeloid tumor cells, serum stimulated NSO myeloid tumor cells, CSF-1 stimulated freshly isolated human monocytes, and VEGF stimulated human umbilical vein vascular endothelial cells with IC50 of 0.33, 13.5, 0.47 and 12 μM, respectively. 1 μM GW2580 completely inhibits CSF-1-induced growth of mouse M-NFS-60 myeloid cells and human monocytes and completely inhibits bone degradation in cultures of human osteoclasts, rat calvaria, and rat fetal long bone. [1] GW2580 inhibits CSF1R phosphorylation in RAW264.7 murine macrophages stimulated with 10 ng/mL with IC50 of approximately 10 nM. [2] GW2580 also inhibits TRKA activity with IC50 of 0.88 μM."
+1,2,Flavopiridol,Flavopiridol,alvocidib,sensitivity_BRD-K87909389-003-03-4_2.5_HTS,3,39534,13178,4.049,0.00935,**,0.0091,0.4789,0.5145,-0.187522,"Flavopiridol (Alvocidib) competes with ATP to inhibit CDKs including CDK1, CDK2, CDK4, CDK6, and CDK9 with IC50 values in the 20-100 nM range. It is more selective for CDK1, 2, 4, 6, 9 versus CDK7. Flavopiridol is initially found to inhibit EGFR and PKA. Phase 1/2."
+2,3,NF-kB Activation Inhibitor,NF.kB.Activation.Inhibitor,NFKB-activation-inhibitor-II,,3,22747,7582,3.811,0.0127,*,0.05,0.437,0.05,-0.05113262,anti-iniflammatory; immune modulation
+3,4,Regorafenib (BAY 73-4506),Regorafenib..BAY.73.4506.,,,3,13814,4605,3.635,0.0158,*,0.165,0.103,0.033,,"oral multi-kinase inhibitor developed by Bayer which targets angiogenic, stromal and oncogenic receptor tyrosine kinase (RTK). Regorafenib shows anti-angiogenic activity due to its dual targeted VEGFR2-TIE2tyrosine kinase inhibition"
+4,5,JQ1,JQ1,,,3,20824,6941,3.622,0.0185,*,0.266,0.516,0.017,,BET Inhibitor
+5,6,SB-431542,SB.431542,SB-431542,sensitivity_BRD-K67298865-001-09-0_2.5_HTS,3,25453,8484,3.339,0.0226,*,0.073,0.376,0.163,-0.02756252,"SB-431542 is a drug candidate developed by GlaxoSmithKline (GSK) as an inhibitor of the activin receptor-like kinase (ALK) receptors, ALK5, ALK4 and ALK7.[1] (It is NOT an ALK inhibitor)"
+6,7,Axitinib (AG-013736),Axitinib..AG.013736.,axitinib,sensitivity_BRD-K29905972-001-06-3_2.5_HTS,3,19112,6371,3.282,0.0241,*,0.896,0.07,0.07,-0.01258067,"primary mechanism of action is thought to be vascular endothelial growth factor receptor 1-3, c-KIT and PDGFR inhibition, this, in turn, enables it to inhibit angiogenesis (the formation of new blood vessels by tumours)"
+7,8,17-AAG (Tanespimycin),X17.AAG..Tanespimycin.,tanespimycin,sensitivity_BRD-K81473043-001-14-6_2.5_HTS,3,20011,6670,3.167,0.0282,*,0.829,0.829,0.017,-0.1678342,"It works by inhibiting Hsp90, which is expressed in those tumors.["
+8,9,Lenvatinib,Lenvatinib,,,3,16085,5362,3.203,0.0303,*,0.733,0.733,0.013,,"developed by Eisai Co. and acts as a multiple kinase inhibitor against the VEGFR1, VEGFR2 and VEGFR3kinases."
+9,10,CHIR-99021,CHIR.99021,CHIR-99021,sensitivity_BRD-K16189898-003-03-3_2.5_HTS,3,15265,5088,3.06,0.032,*,0.11,0.16,0.48,0.05380702,"The aminopyrimidine CHIR99021 is the most selective inhibitor of glycogen synthase kinase 3 beta (GSK-3β) reported to date1,2. Unlike other potent inhibitors of GSK-3, CHIR99201 does not exhibit cross-reactivity against cyclin-dependent kinases (CDKs) and shows a 350-fold selectivity toward GSK-3β compared to CDKs3. Along with the elimination of differentiation-inducing signaling from mitogen-activated protein kinases, using CHIR99021 to block the activity of GSK-3β enables the self-renewal of embryonic stem cells"
+10,11,BEZ235,BEZ235,NVP-BEZ235,sensitivity_BRD-K12184916-001-15-4_2.5_HTS,3,20526,6842,3.029,0.0334,*,0.789,0.692,0.02,-0.2208578, imidazoquinoline derivative acting as a PI3K inhibitor.[1] It also inhibits mTOR
+11,12,Rapamycin,Rapamycin,sirolimus,sensitivity_BRD-K84937637-001-09-9_2.5_HTS,3,26193,8731,2.983,0.035,*,0.843,0.843,0.021,,inhibits activation of T cells and B cells by reducing their sensitivity to interleukin-2(IL-2) through mTOR inhibition
+12,13,LY-333531,LY.333531,,,3,8257,2752.2,2.898,0.0392,*,0.204,0.077,0.474,,Protein kinase C inhibitor; selective for β isozymes
+13,14,Quizartinib (AC220),Quizartinib..AC220.,quizartinib,sensitivity_BRD-K93918653-001-08-9_2.5_HTS,3,14670,4890,2.779,0.0459,*,0.585,0.927,0.035,-0.02708504,"Its molecular target is FLT3, also known as CD135"
+14,15,Lapatinib,Lapatinib,lapatinib,sensitivity_BRD-K19687926-379-07-4_2.5_HTS,3,11486,3829,2.75,0.0468,*,0.11,0.8,0.11,-0.02980681,"Lapatinib inhibits the tyrosine kinase activity associated with two oncogenes, EGFR (epidermal growth factor receptor) and HER2/neu"
+15,16,Masitinib (AB-1010),Masitinib..AB.1010.,masitinib,sensitivity_BRD-K71035033-001-07-1_2.5_HTS,3,18819,6273,2.699,0.0501,.,0.38,0.17,0.17,-0.04985305,"Masitinib inhibits the receptor tyrosine kinase c-Kit which is displayed by various types of tumour.[2] It also inhibits the platelet derived growth factor receptor (PDGFR), lymphocyte-specific protein tyrosine kinase (Lck), focal adhesion kinase (FAK) and fibroblast growth factor receptor 3 (FGFR3)"
+16,17,Ibrutinib (PCI-32765),Ibrutinib..PCI.32765.,ibrutinib,sensitivity_BRD-K70301465-001-02-6_2.5_HTS,3,16812,5604,2.718,0.0507,.,0.363,0.709,0.047,-0.2989088,"Ibrutinib (Imbruvica) is a small molecule drug that binds permanently to a protein, Bruton's tyrosine kinase (BTK), that is important in B cells; the drug is used to treat B cell cancers like mantle cell lymphoma, chronic lymphocytic leukemia, and Waldenström's macroglobulinemia."
+17,18,Roscovitine (CYC-202),Roscovitine..CYC.202.,roscovitine,sensitivity_BRD-K07691486-001-15-5_2.5_HTS,3,7473,2491.1,2.554,0.06,.,0.071,0.681,0.601,-0.07264709,"Roscovitine (Seliciclib, CYC202) is a potent and selective CDK inhibitor for Cdc2, CDK2 and CDK5 with IC50 of 0.65 μM, 0.7 μM and 0.16 μM in cell-free assays. It shows little effect on CDK4/6. Phase 2."
+18,19,Foretinib (XL880),Foretinib..XL880.,foretinib,sensitivity_BRD-K03449891-001-08-6_2.5_HTS,3,18411,6137,2.403,0.0725,.,0.968,0.968,0.049,-0.06561502,Foretinib is an inhibitor of the kinase enzymes c-Met and vascular endothelial growth factor receptor 2 (VEGFR-2)
+19,20,MLN120B,MLN120B,,,3,17284,5761,2.35,0.0775,.,0.24,0.24,0.6,,IkappaB kinase beta inhibitor
+20,21,Pazopanib (GW786034),Pazopanib..GW786034.,pazopanib,sensitivity_BRD-K74514084-001-03-9_2.5_HTS,3,13245,4415,2.31,0.0811,.,0.52,0.352,0.078,0.03600844,"It is a multikinase inhibitor, with c-KIT, FGFR, PDGFR and VEGFR being amongst the inhibited enzymes."
+21,22,Tofacitinib (CP-690550),Tofacitinib..CP.690550.,tofacitinib,sensitivity_BRD-K31283835-048-04-4_2.5_HTS,3,11385,3795,2.308,0.0815,.,0.17,0.33,0.99,-0.03267575,interferes with the JAK-STAT signaling pathway
+22,23,Lenalidomide,Lenalidomide,lenalidomide,sensitivity_BRD-A17883755-001-06-1_2.5_HTS,3,19723,6574,2.452,0.0891,.,0.375,0.109,0.375,0.1079748,"induces tumor cell apoptosis directly and indirectly by inhibition of bone marrow stromal cell support, by anti-angiogenic and anti-osteoclastogenic effects, and by immunomodulatory activity"
+23,24,JNJ-7706621,JNJ.7706621,JNJ-7706621,sensitivity_BRD-K11636097-001-03-1_2.5_HTS,3,6033,2011,2.213,0.0916,.,0.16,0.34,0.28,-0.08863059, pan-CDK inhibitor with the highest potency on CDK1/2 with IC50 of 9 nM/4 nM and showing >6-fold selectivity for CDK1/2 than CDK3/4/6 in cell-free assays. It also potently inhibits Aurora A/B and has no activity on Plk1 and Wee1.
+24,25,Cabozantinib,Cabozantinib,,,3,18161,6054,2.199,0.0936,.,0.32,0.78,0.12,,"small molecule inhibitor of the tyrosine kinases c-Met and VEGFR2, and also inhibits AXL and RET"
+25,26,Dasatinib,Dasatinib,dasatinib,sensitivity_BRD-K49328571-001-15-0_2.5_HTS,3,20251,6750,2.183,0.0949,.,0.75,0.32,0.16,-0.2458858,"The main targets of dasatinib are BCR/Abl (the ""Philadelphia chromosome""), Src, c-Kit, ephrin receptors, and several other tyrosine kinases"
+26,27,Saracatinib (AZD0530),Saracatinib..AZD0530.,saracatinib,sensitivity_BRD-K19540840-001-09-4_2.5_HTS,3,12440,4147,2.167,0.0975,.,0.45,0.37,0.15,-0.1521783,AZD0530 is an inhibitor of Src and Abl family kinases1
+27,28,Linifanib (ABT-869),Linifanib..ABT.869.,linifanib,sensitivity_BRD-K99749624-001-07-0_2.5_HTS,3,19273,6424,2.128,0.102,,0.39,0.24,0.18,0.03878576,
+28,29,Gefitinib,Gefitinib,gefitinib,sensitivity_BRD-K64052750-001-17-5_2.5_HTS,3,8281,2760,2.105,0.105,,0.54,0.82,0.11,-0.1009577,
+29,30,Dovitinib (CHIR-258),Dovitinib..CHIR.258.,dovitinib,sensitivity_BRD-K85402309-389-03-2_2.5_HTS,3,13434,4478,2.063,0.11,,0.25,0.46,0.17,-0.03427573,
+30,31,PI-103,PI.103,PI-103,sensitivity_BRD-K67868012-001-07-6_2.5_HTS,3,14632,4877,2.065,0.11,,0.878,0.884,0.087,-0.1688977,
+31,32,Venetoclax,Venetoclax,venetoclax,sensitivity_BRD-K62391742-001-03-0_2.5_HTS,3,26660,8887,1.975,0.128,,0.25,0.67,0.29,,
+32,33,KU-55933,KU.55933,KU-55933,sensitivity_BRD-K25311561-001-10-7_2.5_HTS,3,14173,4724,1.938,0.129,,0.29,0.29,0.93,0.01354036,
+33,34,Neratinib (HKI-272),Neratinib..HKI.272.,neratinib,sensitivity_BRD-K85606544-001-09-1_2.5_HTS,3,12974,4325,1.925,0.131,,0.691,0.093,0.616,-0.1557053,
+34,35,Canertinib (CI-1033),Canertinib..CI.1033.,canertinib,sensitivity_BRD-K50168500-001-07-9_2.5_HTS,3,12399,4133,1.897,0.135,,0.29,0.69,0.29,-0.204894,
+35,36,Selinexor,Selinexor,,,2,7988,3994,2.3,0.135,,-,,,,
+36,37,Volasertib (BI-6727),Volasertib..BI.6727.,,,3,5424,1807.9,1.855,0.148,,0.59,0.47,0.2,,
+37,38,BMS-345541,BMS.345541,BMS-345541,sensitivity_BRD-K13566078-001-02-3_2.5_HTS,3,4112,1370.5,1.793,0.154,,0.35,0.77,0.48,0.08776638,
+38,39,Tivozanib (AV-951),Tivozanib..AV.951.,tivozanib,sensitivity_BRD-K53414658-001-08-2_2.5_HTS,3,19263,6421,1.741,0.164,,0.52,0.52,0.22,-0.03511651,
+39,40,Entospletinib (GS-9973),Entospletinib..GS.9973.,,,3,10336,3445,1.78,0.168,,0.71,0.89,0.17,,
+40,41,Crizotinib (PF-2341066),Crizotinib..PF.2341066.,crizotinib,sensitivity_BRD-K78431006-001-10-2_2.5_HTS,3,7592,2531,1.706,0.171,,0.88,0.35,0.24,-0.006593412,
+41,42,Pelitinib (EKB-569),Pelitinib..EKB.569.,pelitinib,sensitivity_BRD-K08799216-001-05-3_2.5_HTS,3,9455,3152,1.686,0.175,,0.4,0.64,0.27,-0.1886751,
+42,43,ABT-737,ABT.737,ABT-737,sensitivity_BRD-K56301217-001-07-4_2.5_HTS,3,12194,4065,1.642,0.186,,0.92,0.18,0.92,-0.0675061,
+43,44,Sunitinib,Sunitinib,sunitinib,sensitivity_BRD-K42828737-044-09-0_2.5_HTS,3,8671,2890,1.635,0.186,,0.66,0.66,0.21,-0.07819038,
+44,45,TG100-115,TG100.115,TG100-115,sensitivity_BRD-K64785675-001-04-0_2.5_HTS,3,6270,2090,1.599,0.195,,0.61,0.5,0.28,0.1413199,
+45,46,Staurosporine,Staurosporine,staurosporine,,3,13083,4361,1.664,0.196,,-,,,-0.1644427,
+46,47,MK-2206,MK.2206,MK-2206,sensitivity_BRD-K68065987-300-09-1_2.5_HTS,3,15024,5008,1.522,0.214,,0.57,0.28,0.85,-0.1603704,
+47,48,MLN8054,MLN8054,MLN-8054,sensitivity_BRD-K83963101-001-06-9_2.5_HTS,3,5441,1814,1.501,0.22,,0.59,0.62,0.62,-0.08943977,
+48,49,Barasertib (AZD1152-HQPA),Barasertib..AZD1152.HQPA.,barasertib,sensitivity_BRD-K31928526-001-02-1_2.5_HTS,3,11121,3707,1.472,0.227,,0.32,0.84,0.84,-0.09115365,
+49,50,Vatalanib (PTK787),Vatalanib..PTK787.,vatalanib,sensitivity_BRD-K70163715-300-05-7_2.42_HTS,3,9523,3174,1.384,0.252,,0.35,0.78,0.78,-0.1120654,
+50,51,Sorafenib,Sorafenib,sorafenib,sensitivity_BRD-K23984367-075-15-2_2.5_HTS,3,7436,2479,1.374,0.255,,0.43,0.43,0.32,-0.02696414,
+51,52,KI20227,KI20227,,,3,14945,4982,1.351,0.263,,0.42,0.42,0.73,,
+52,53,GDC-0879,GDC.0879,GDC-0879,sensitivity_BRD-K67578145-001-12-1_2.5_HTS,3,6249,2083,1.277,0.287,,0.38,0.77,0.77,-0.1190311,
+53,54,GSK-1904529A,GSK.1904529A,GSK-1904529A,sensitivity_BRD-K04833372-001-06-2_2.5_HTS,3,6034,2011,1.271,0.289,,0.61,0.73,0.7,0.03440365,
+54,55,Erlotinib,Erlotinib,erlotinib,sensitivity_BRD-K70401845-003-09-6_2.5_HTS,3,5234,1745,1.249,0.296,,0.35,0.98,0.98,-0.09990192,(has analog with much better score)
+55,56,Palbociclib,Palbociclib,palbociclib,sensitivity_BRD-K51313569-003-03-3_2.5_HTS,3,6702,2234,1.213,0.32,,0.52,0.52,0.52,-0.2649214,
+56,57,DBZ,DBZ,,,3,8173,2724,1.186,0.322,,0.6,0.8,0.83,,
+57,58,MGCD-265,MGCD.265,MGCD-265,sensitivity_BRD-K56277358-001-07-5_2.5_HTS,3,7553,2518,1.114,0.348,,0.68,0.68,0.68,0.05791537,
+58,59,Tozasertib (VX-680),Tozasertib..VX.680.,tozasertib,sensitivity_BRD-K59369769-001-20-3_2.5_HTS,3,6291,2097,1.096,0.355,,0.57,0.57,0.57,-0.08558786,
+59,60,SGX-523,SGX.523,SGX523,sensitivity_BRD-K19477839-001-07-6_2.5_HTS,3,6404,2135,1.084,0.36,,0.66,0.66,0.66,0.1873453,
+60,61,S31-201,S31.201,,,3,8911,2970,1.056,0.372,,0.72,0.6,0.72,,
+61,62,INK-128,INK.128,,,3,7770,2590,1.028,0.384,,0.72,0.67,0.35,,
+62,63,PHA-665752,PHA.665752,PHA-665752,sensitivity_BRD-K95435023-001-10-1_2.5_HTS,3,6251,2084,1.014,0.39,,0.67,0.85,0.67,-0.02542489,
+63,64,VX-745,VX.745,VX-745,sensitivity_BRD-K91900765-001-07-6_2.500030257_MTS004,3,7722,2574,1,0.396,,0.67,0.8,0.57,-0.04446554,
+64,65,Gilteritinib (ASP-2215),Gilteritinib..ASP.2215.,,,3,7069,2356,1.005,0.407,,0.61,0.61,0.51,,
+65,66,PD173955,PD173955,,,3,10087,3362,0.972,0.409,,0.52,0.52,0.52,,
+66,67,GDC-0941,GDC.0941,GDC-0941,sensitivity_BRD-K52911425-001-09-8_2.5_HTS,3,6750,2250,0.953,0.419,,0.52,0.63,0.63,-0.1975401,
+67,68,Idelalisib,Idelalisib,idelalisib,sensitivity_BRD-K60866521-001-07-1_2.5_HTS,3,6987,2329,0.931,0.429,,0.69,0.68,0.68,0.1660935,
+68,69,Panobinostat,Panobinostat,panobinostat,sensitivity_BRD-K02130563-001-11-4_2.5_HTS,3,17018,5673,0.942,0.431,,0.63,0.9,0.9,-0.3114727,
+69,70,Motesanib (AMG-706),Motesanib..AMG.706.,motesanib,sensitivity_BRD-K99616396-001-05-1_2.499991421_MTS004,3,6821,2274,0.919,0.435,,0.59,0.69,0.84,0.003485919,
+70,71,SNS-032 (BMS-387032),SNS.032..BMS.387032.,,,3,5314,1771,0.912,0.438,,0.61,0.46,0.46,,
+71,72,GSK-1838705A,GSK.1838705A,,,3,5126,1709,0.901,0.444,,0.79,0.79,0.9,,
+72,73,STO609,STO609,STO-609,,3,2765,921.7,0.895,0.447,,0.73,0.73,0.98,0.108437433,
+73,74,JAK Inhibitor I,JAK.Inhibitor.I,JAK3-inhibitor-I,,3,6643,2214,0.891,0.449,,0.71,0.87,0.71,-0.17561877,
+74,75,Trametinib (GSK1120212),Trametinib..GSK1120212.,trametinib,sensitivity_BRD-K12343256-001-08-9_2.5_HTS,3,9630,3210,0.888,0.45,,0.69,0.69,0.96,-0.2164809,
+75,76,Alisertib (MLN8237),Alisertib..MLN8237.,,,3,4292,1430,0.888,0.451,,0.78,0.88,0.88,,
+76,77,Cediranib (AZD2171),Cediranib..AZD2171.,cediranib,sensitivity_BRD-K86930074-001-05-0_2.5_HTS,3,3929,1310,0.879,0.455,,0.6,0.6,0.92,-0.1488675,
+77,78,PP242,PP242,PP242,sensitivity_BRD-K87112191-001-04-5_2.5_HTS,3,7152,2384,0.865,0.462,,0.68,0.54,0.54,-0.07711121,
+78,79,Tandutinib (MLN518),Tandutinib..MLN518.,tandutinib,sensitivity_BRD-K89162000-001-06-4_2.5_HTS,3,6261,2087,0.88,0.463,,-,,,-0.131109,
+79,80,Vismodegib (GDC-0449),Vismodegib..GDC.0449.,,,3,3282,1094,0.857,0.466,,0.79,0.79,0.79,,
+80,81,Bay 11-7085,Bay.11.7085,,,3,6867,2289,0.86,0.467,,0.76,0.76,0.96,,
+81,82,PRT062607,PRT062607,,,3,4313,1438,0.839,0.476,,0.77,0.77,0.77,,
+82,83,Vargetef,Vargetef,,,3,6297,2099,0.78,0.508,,0.97,0.74,0.57,,
+83,84,Vemurafenib (PLX-4032),Vemurafenib..PLX.4032.,vemurafenib,sensitivity_BRD-K56343971-001-10-6_2.5_HTS,3,4346,1449,0.77,0.516,,0.76,0.76,0.99,-0.07858877,
+84,85,Ponatinib (AP24534),Ponatinib..AP24534.,ponatinib,sensitivity_BRD-K44227013-001-06-4_2.5_HTS,3,5865,1955,0.718,0.544,,0.74,0.88,0.63,-0.1801628,
+85,86,Imatinib,Imatinib,imatinib,sensitivity_BRD-K92723993-001-06-7_2.5_HTS,3,4372,1457,0.715,0.545,,0.84,0.66,0.61,-0.1161711,
+86,87,Nilotinib,Nilotinib,nilotinib,sensitivity_BRD-K81528515-001-13-8_2.5_HTS,3,3295,1098,0.716,0.545,,0.67,0.93,0.87,-0.06780616,
+87,88,Crenolanib,Crenolanib,,,3,3689,1230,0.715,0.546,,0.93,0.93,0.93,,
+88,89,NVP-TAE684,NVP.TAE684,NVP-TAE684,sensitivity_BRD-K50140147-001-10-1_2.5_HTS,3,5001,1667,0.714,0.546,,0.91,0.54,0.54,-0.2276161,
+89,90,Vandetanib (ZD6474),Vandetanib..ZD6474.,,,3,4938,1646,0.709,0.549,,0.77,0.77,0.77,,
+90,91,JNJ-28312141,JNJ.28312141,,,3,7026,2342,0.703,0.552,,0.76,0.76,0.76,,
+91,92,KW-2449,KW.2449,,,3,6199,2066,0.702,0.553,,0.85,0.85,0.85,,
+92,93,Doramapimod (BIRB 796),Doramapimod..BIRB.796.,doramapimod,sensitivity_BRD-K74065929-001-07-2_2.5_HTS,3,6118,2039,0.674,0.57,,0.7,0.7,0.7,-0.07657845,
+93,94,TG101348,TG101348,TG-101348,sensitivity_BRD-K12502280-001-08-0_2.5_HTS,3,2759,919.7,0.677,0.573,,-,,,-0.2162919,
+94,95,NVP-ADW742,NVP.ADW742,,,3,3899,1300,0.65,0.585,,0.75,0.75,0.75,,
+95,96,Lestaurtinib (CEP-701),Lestaurtinib..CEP.701.,lestaurtinib,sensitivity_BRD-A27376179-001-01-3_2.5_HTS,3,3603,1201,0.625,0.605,,-,,,-0.2186521,
+96,97,CYT387,CYT387,CYT387,sensitivity_BRD-K87737963-001-06-0_2.5_HTS,3,2768,922.8,0.612,0.609,,0.89,0.89,0.89,-0.2817432,
+97,98,Go6976,Go6976,,,3,3719,1240,0.614,0.611,,-,,,,
+98,99,Entrectinib,Entrectinib,,,2,740,369.8,0.509,0.619,,-,,,,
+99,100,YM-155,YM.155,YM-155,sensitivity_BRD-K76703230-004-04-1_2.5_HTS,3,1431,477,0.566,0.639,,0.99,0.99,0.58,-0.06206188,
+100,101,Ruxolitinib (INCB018424),Ruxolitinib..INCB018424.,ruxolitinib,sensitivity_BRD-K53972329-001-07-0_2.5_HTS,3,2636,878.7,0.564,0.64,,0.89,0.89,0.96,0.01622287,
+101,102,Lovastatin,Lovastatin,lovastatin,sensitivity_BRD-K09416995-001-39-9_2.5_HTS,3,4604,1535,0.565,0.644,,0.72,0.72,0.72,-0.1479,
+102,103,JNJ-38877605,JNJ.38877605,JNJ-38877605,sensitivity_BRD-K02123250-001-06-7_2.5_HTS,3,1847,615.8,0.52,0.67,,0.77,0.77,0.77,-0.06709544,
+103,104,Elesclomol,Elesclomol,elesclomol,sensitivity_BRD-K82135108-001-04-3_2.5_HTS,3,3464,1155,0.517,0.672,,0.97,0.85,0.97,-0.04182197,
+104,105,SR9011,SR9011,,,3,2451,817.1,0.514,0.676,,0.94,0.94,0.94,,
+105,106,SU11274,SU11274,SU-11274,sensitivity_BRD-K02965346-001-07-5_2.5_HTS,3,2424,807.9,0.488,0.692,,0.89,0.75,0.89,-0.12659451,
+106,107,AT7519,AT7519,AT-7519,sensitivity_BRD-K13390322-001-06-3_2.5_HTS,3,3284,1095,0.464,0.708,,0.73,0.73,0.74,,
+107,108,CI-1040 (PD184352),CI.1040..PD184352.,PD-184352,sensitivity_BRD-K05104363-001-10-0_2.5_HTS,3,2420,806.7,0.425,0.736,,0.7,0.7,0.7,-0.1073133,
+108,109,Bortezomib (Velcade),Bortezomib..Velcade.,bortezomib,sensitivity_BRD-K88510285-001-11-1_2.5_HTS,3,4130,1377,0.415,0.743,,0.88,0.88,0.88,-0.2066592,
+109,110,Midostaurin,Midostaurin,midostaurin,sensitivity_BRD-K13646352-001-03-8_2.5_HTS,3,2253,750.9,0.414,0.744,,0.99,0.87,0.99,-0.1531961,
+110,111,PHT-427,PHT.427,,,3,1249,416.2,0.4,0.754,,0.84,0.84,0.84,,
+111,112,GSK690693,GSK690693,GSK-690693,,3,2125,708.2,0.387,0.763,,0.99,0.91,0.91,-0.1235028,
+112,113,AZD1480,AZD1480,AZD-1480,sensitivity_BRD-K65928735-001-04-3_2.5_HTS,3,2159,719.7,0.341,0.796,,0.81,0.7,0.7,-0.1630623,
+113,114,PLX-4720,PLX.4720,PLX-4720,sensitivity_BRD-K16478699-001-09-2_2.5_HTS,3,1289,429.6,0.341,0.796,,-,,,0.002723875,
+114,115,A-674563,A.674563,,,3,2131,710.3,0.285,0.836,,0.9,0.79,0.79,,
+115,116,BI-2536,BI.2536,BI-2536,sensitivity_BRD-K64890080-001-13-8_2.5_HTS,3,1628,542.5,0.276,0.842,,-,,,-0.2012863,
+116,117,Nutlin 3a,Nutlin.3a,nutlin-3,sensitivity_BRD-A12230535-001-06-7_2.5_HTS,3,226,75.2,0.177,0.912,,0.89,0.98,0.89,-0.05498028,
+117,118,RAF265 (CHIR-265),RAF265..CHIR.265.,,,3,999,333,0.174,0.914,,0.91,0.91,0.91,,
+118,119,Selumetinib (AZD6244),Selumetinib..AZD6244.,selumetinib,sensitivity_BRD-K57080016-001-15-9_2.5_HTS,3,1932,644,0.147,0.931,,0.91,0.91,0.91,-0.1692063,
+119,120,Bosutinib (SKI-606),Bosutinib..SKI.606.,bosutinib,sensitivity_BRD-K99964838-001-11-9_2.5_HTS,3,604,201.4,0.074,0.974,,0.92,0.92,0.92,-0.1502019,
+120,121,XAV-939,XAV.939,XAV-939,sensitivity_BRD-K12762134-001-06-2_2.5_HTS,3,359,119.5,0.066,0.978,,0.97,0.97,0.97,0.01737027,
+121,122,Afatinib (BIBW-2992),Afatinib..BIBW.2992.,afatinib,sensitivity_BRD-K66175015-001-09-0_2.5_HTS,3,319,106.4,0.058,0.982,,0.94,0.94,0.94,-0.09691225,
+122,123,Cytarabine,Cytarabine,cytarabine,sensitivity_BRD-K71847383-001-12-5_2.5_HTS,,,,,,,,,,,
+123,124,Azacytidine,Azacytidine,azacytidine,sensitivity_BRD-K03406345-001-27-8_2.5_HTS,,,,,,,,,,,
