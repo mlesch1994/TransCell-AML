@@ -40,6 +40,7 @@ Notebooks 02 and 04 read `results/dist_df.csv`, which is included and is recreat
 | `beataml2_patients_drug.csv`, `beataml2_data.csv` (Beat AML ex vivo drug response and clinical data) | 04, 07, 08, 09, 10 |
 | `DECONVALID_results.csv` | 04 |
 | `ALLDECONVALID_results.csv` | 07, 08, 10 |
+| `{VENETOCLAX,DAUNORUBICIN,IDARUBICIN} PRISM Repurposing {Primary (Viability),Secondary (AUC)}.csv` (DepMap PRISM Repurposing screens, six files) | 07 |
 | `cell_line_predicitons.csv` | 05 |
 | `phenoDF_withage.csv`, `tcga_pan-cancer_Survival.txt`, `markers/` | 06 |
 | `tcga_panc_symbol.RData` (not included, see below) | 06 |
@@ -47,7 +48,7 @@ Notebooks 02 and 04 read `results/dist_df.csv`, which is included and is recreat
 
 ### TCGA expression data
 
-`tcga_panc_symbol.RData` can be downloaded from TCGA pan-cancer gene expression data, for example from [UCSC Xena](https://xenabrowser.net/datapages/?cohort=TCGA%20Pan-Cancer%20(PANCAN)). Save it as an R object named `exp_matrix_symbol`: a matrix with gene symbols as rows and TCGA sample IDs as columns, with `-` in the IDs replaced by `.`.
+`tcga_panc_symbol.RData` can be downloaded from TCGA pan-cancer gene expression data.
 
 ## Requirements
 
